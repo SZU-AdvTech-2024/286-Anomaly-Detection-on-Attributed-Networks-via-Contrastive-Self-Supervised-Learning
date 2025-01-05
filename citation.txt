@@ -1,0 +1,10 @@
+@article{REPO286,
+    author = "Liu, Yixin and Li, Zhao and Pan, Shirui and Gong, Chen and Zhou, Chuan and Karypis, George",
+    journal = "IEEE transactions on neural networks and learning systems",
+    number = "6",
+    pages = "2378--2392",
+    publisher = "IEEE",
+    title = "{Anomaly detection on attributed networks via contrastive self-supervised learning}",
+    volume = "33",
+    year = "2021"
+}
